@@ -36,7 +36,9 @@ header:
     show_theme_chooser: true
     logo:
       text: "Chengxin Yan"
-
+design:
+  # Default section spacing
+  spacing: "1rem"
 # Site footer
 footer:
   copyright:
