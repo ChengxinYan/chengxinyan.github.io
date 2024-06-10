@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,20 +31,25 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:cxyan@mail.nankai.edu.cn'
-    label: E-pmail Me
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/chengxin-yan-018aa7310/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.co.uk/citations?user=eTzqqEUAAAAJ&hl=zh-CN
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Stochastic Processes
-  - SDEs and SPDEs
-  - Stochastic Optimization
-  - Business Modeling
-  - Mathematical Finance
-  - Operations Management
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
