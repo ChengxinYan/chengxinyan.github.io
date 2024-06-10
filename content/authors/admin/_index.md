@@ -11,7 +11,7 @@ last_name: Yan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ role: Ph.D. Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Nankai University
-    url: https://openai.com/
+    url: https://en.nankai.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
