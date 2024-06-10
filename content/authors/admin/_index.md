@@ -183,4 +183,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Chengxin, and I am a Ph.D. candidate in Probability and Mathematical Statistics at the School of Mathematical Sciences, Nankai University. My research interests include stochastic calculus/processes, stochastic differential equations (SDEs) and stochastic partial differential equations (SPDEs), stochastic optimazation, mathematical finance, and operations management. 
+In the past few years I have been mainly engaged in theoretical research on SDEs and SPDEs, and now I am committed to applying stochastic techniques to mathematical finance and operations management.
+For more information about my academic publications, please refer to my curriculum vitae (CV).
