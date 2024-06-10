@@ -36,9 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Chengxin Yan"
-design:
-  # Default section spacing
-  spacing: "1rem"
+
 # Site footer
 footer:
   copyright:
@@ -48,7 +46,9 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
+design:
+  # Default section spacing
+  spacing: "1rem"
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
