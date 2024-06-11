@@ -46,7 +46,6 @@ interests:
   - Stochastic Processes
   - SDEs and SPDEs
   - Stochastic Optimization
-  - Business Modeling
   - Mathematical Finance
   - Operations Management
 
