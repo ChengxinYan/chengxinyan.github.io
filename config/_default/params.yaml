@@ -29,12 +29,12 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: true
     blox: "navbar"
-    fixed_to_top: flase
+    fixed_to_top: true
     show_search: flase
-    show_theme_chooser: flase
-    logo:
+    show_theme_chooser: true
+    logo: assets/icon.png
       text: "Chengxin Yan"
 
 # Site footer
