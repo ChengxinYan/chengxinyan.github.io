@@ -47,7 +47,12 @@ interests:
   - SDEs and SPDEs
   - Stochastic Optimization
   - Mathematical Finance
-  - Operations Management
+  - Inventory Management
+  - Supply Chain Management
+  - Crowdfunding and Online Plantform
+  - Sustainable Operations
+  - Fairness in Resource Allocation
+
 
 education:
   - area: Ph.D. Candidate 
