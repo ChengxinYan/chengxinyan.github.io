@@ -48,7 +48,7 @@ footer:
       allow_commercial: false
 design:
   # Default section spacing
-  spacing: "8rem"
+  spacing: "0.1rem"
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
