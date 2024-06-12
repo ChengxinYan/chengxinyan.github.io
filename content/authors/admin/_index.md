@@ -47,9 +47,7 @@ interests:
   - SDEs and SPDEs
   - Stochastic Optimization
   - Mathematical Finance
-  - Supply Chain Management
   - Sustainable Operations
-  - Fairness in Resource Allocation
 
 
 education:
