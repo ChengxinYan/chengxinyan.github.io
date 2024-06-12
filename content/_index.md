@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: background2.jpg
           filters:
-            brightness: 1.2
+            brightness: 1.1
           size: cover
           position: center
           parallax: false

@@ -45,8 +45,9 @@ profiles:
 interests:
   - Stochastic Processes
   - SDEs and SPDEs
+  - Stochastic Modeling
   - Stochastic Optimization
-  - Mathematical Finance
+  - Revenue Management
   - Sustainable Operations
 
 
