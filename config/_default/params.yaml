@@ -44,11 +44,9 @@ footer:
     license: 
       enable: false
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
-design:
-  # Default section spacing
-  spacing: "0rem"
+
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
