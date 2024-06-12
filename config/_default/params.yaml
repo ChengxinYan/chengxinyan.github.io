@@ -32,8 +32,8 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
     logo: 
       text: "Chengxin Yan"
 
@@ -48,7 +48,7 @@ footer:
       allow_commercial: false
 design:
   # Default section spacing
-  spacing: "0.1rem"
+  spacing: "10rem"
 # Localization
 locale:
   date_format: 'Jan 2, 2006'

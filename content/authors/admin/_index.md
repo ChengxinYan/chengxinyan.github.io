@@ -3,7 +3,7 @@
 title: 闫丞鑫
 
 # Name pronunciation (optional)
-#name_pronunciation: Chengxin Yan
+name_pronunciation: Chengxin Yan
 
 # Full name (for SEO)
 first_name: Chengxin
