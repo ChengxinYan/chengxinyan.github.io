@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Chengxin Yan"
 date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
-  spacing: "0rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: background2.jpg
           filters:
-            brightness: 1.0
+            brightness: 2.0
           size: cover
           position: center
           parallax: false
