@@ -6,7 +6,7 @@
 # Website name
 title: Chengxin Yan
 # Website URL
-baseURL: 'https://example.com/favicon.ico'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
@@ -23,7 +23,7 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: true
+enableGitInfo: false
 summaryLength: 30
 paginate: 10
 enableEmoji: true
