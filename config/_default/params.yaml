@@ -41,14 +41,14 @@ header:
 footer:
   copyright:
     notice: '© 2024 Chengxin Yan.'
-    license:
+    license: false
       enable: false
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
 design:
   # Default section spacing
-  spacing: "10rem"
+  spacing: "0rem"
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
