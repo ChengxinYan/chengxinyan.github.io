@@ -46,7 +46,7 @@ interests:
   - Stochastic Processes 
   - Stochastic Modeling
   - Stochastic Optimization
-  - Crowdfunding and Online plantforms
+  - Supply Chain Management
   - Sustainable Operations
 
 
