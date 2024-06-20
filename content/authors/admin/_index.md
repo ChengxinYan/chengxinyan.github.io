@@ -163,6 +163,6 @@ awards:
 
 ## About Me
 
-Hi! My name is Chengxin, and I am a Ph.D. candidate in Probability and Mathematical Statistics at the School of Mathematical Sciences, Nankai University. My research interests include stochastic calculus/processes, stochastic differential equations (SDEs) and stochastic partial differential equations (SPDEs), stochastic optimazation, mathematical finance, and operations management. 
-In the past few years I have been mainly engaged in theoretical research on SDEs and SPDEs, and now I am committed to applying stochastic techniques to operations management.
+Hi! My name is Chengxin, and I am a Ph.D. candidate in Probability and Mathematical Statistics at the School of Mathematical Sciences, Nankai University. My research interests encompass stochastic calculus and processes, stochastic differential equations (SDEs), stochastic partial differential equations (SPDEs), stochastic optimization, mathematical finance, and operations management.
+Over the past few years, my work has primarily focused on the theoretical aspects of SDEs and SPDEs. Currently, I am dedicated to applying stochastic techniques to enhance operations management.
 For more information about my academic publications, please refer to my curriculum vitae (CV).
