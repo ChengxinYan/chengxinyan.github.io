@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
+  #Default section spacing
   spacing: "6rem"
 
 sections:
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: background2.jpg
           filters:
-            brightness: 2.0
+            brightness: 1.2
           size: cover
           position: center
           parallax: false
