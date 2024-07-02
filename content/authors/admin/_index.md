@@ -49,13 +49,12 @@ interests:
   - Supply Chain Management
   - Sustainable Operations
 
-
 education:
-  - area: Ph.D. Candidate 
+  - area: Ph.D. Candidate in Probability and Statistics
     institution: Nankai University
     date_start: 2021-09-01
     date_end: 2025-06-30     
-  - area: M.Sc. Mathematical Economics
+  - area: M.Sc. Mathematics
     institution: Nankai University
     date_start: 2019-09-01
     date_end: 2021-06-30
@@ -163,6 +162,6 @@ awards:
 
 ## About Me
 
-Hi! My name is Chengxin, and I am a Ph.D. candidate in Probability and Mathematical Statistics at the School of Mathematical Sciences in Nankai University, under the supervision of Prof. Yongjin Wang. My research interests encompass stochastic processes, stochastic differential equations (SDEs), stochastic partial differential equations (SPDEs), stochastic optimization and operations management.
+Hi! My name is Chengxin, and I am a Ph.D. candidate in Probability and Statistics at the School of Mathematical Sciences in Nankai University, under the supervision of Prof. Yongjin Wang. My research interests encompass stochastic processes, stochastic differential equations (SDEs), stochastic partial differential equations (SPDEs), stochastic optimization and operations management.
 Over the past few years, my work has primarily focused on the theoretical aspects of SDEs and SPDEs. Currently, I am dedicated to applying stochastic techniques to enhance operations management.
 For more information about my academic publications, please refer to my curriculum vitae (CV).
