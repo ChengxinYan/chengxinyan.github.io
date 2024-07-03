@@ -54,7 +54,7 @@ education:
     institution: Nankai University
     date_start: 2021-09-01
     date_end: 2025-06-30     
-  - area: M.Sc. Mathematics
+  - area: M.Sc. Applied Mathematics
     institution: Nankai University
     date_start: 2019-09-01
     date_end: 2021-06-30
